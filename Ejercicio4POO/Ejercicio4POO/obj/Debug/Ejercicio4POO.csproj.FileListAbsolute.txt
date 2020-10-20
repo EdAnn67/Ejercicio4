@@ -1,0 +1,6 @@
+C:\Users\edann\Desktop\Ejercicio4POO\Ejercicio4POO\bin\Debug\Ejercicio4POO.exe.config
+C:\Users\edann\Desktop\Ejercicio4POO\Ejercicio4POO\bin\Debug\Ejercicio4POO.exe
+C:\Users\edann\Desktop\Ejercicio4POO\Ejercicio4POO\bin\Debug\Ejercicio4POO.pdb
+C:\Users\edann\Desktop\Ejercicio4POO\Ejercicio4POO\obj\Debug\Ejercicio4POO.csprojResolveAssemblyReference.cache
+C:\Users\edann\Desktop\Ejercicio4POO\Ejercicio4POO\obj\Debug\Ejercicio4POO.exe
+C:\Users\edann\Desktop\Ejercicio4POO\Ejercicio4POO\obj\Debug\Ejercicio4POO.pdb
